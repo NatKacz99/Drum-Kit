@@ -1,1 +1,1 @@
-Playback of instruments sounds.
+Playback of drums sounds.
